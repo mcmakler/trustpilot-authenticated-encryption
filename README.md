@@ -6,6 +6,12 @@ https://support.trustpilot.com/hc/en-us/articles/115004145087--Business-Generate
 
 ## Usage
 
+Import
+
+```go
+import "github.com/mcmakler/trustpilot-authenticated-encryption/trustpilotLinkGen"
+```
+
 Creating of TrustpilotLinkGenerator interface exemplar:
 
 ```go
